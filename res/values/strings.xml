@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestRegistrant</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="message_1">Message 1</string>
+    <string name="message_1_content">This is content of message 1</string>
+    <string name="message_2">Message 2</string>
+    <string name="message_2_content">This is content of message 2</string>
+    <string name="message_3">Message 3</string>
+    <string name="message_3_content">This is content of message 3</string>
+</resources>
